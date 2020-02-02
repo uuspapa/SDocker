@@ -184,8 +184,9 @@ get_char(){
 # Pre-installation settings
 pre_install(){
 
+   
 	shadowsockspwd = "ttt"
-	shadowsocksport = 22522
+	port = 22522
 	shadowsockscipher="chacha20"
     shadowsockprotocol="origin"
 	shadowsockobfs="plain"
