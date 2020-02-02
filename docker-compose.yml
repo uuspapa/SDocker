@@ -6,7 +6,7 @@ services:
     container_name: ssr
     ports:
       - 23333:23333
-      - 56123:56123
+      - 22522:22522
     networks:
       - ssr
     volumes:

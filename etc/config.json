@@ -8,7 +8,7 @@
             "method": "aes-256-cfb",
             "password": "ttt"
         },
-        "56123": "ttt"
+        "22522": "ttt"
     },
     "timeout": 300,
     "method": "chacha20",
